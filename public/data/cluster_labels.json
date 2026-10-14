@@ -1,0 +1,212 @@
+[
+  {
+    "cluster": 9,
+    "name": "Comedy",
+    "x": 554.5,
+    "y": 109.2,
+    "size": 3952
+  },
+  {
+    "cluster": 43,
+    "name": "Romance",
+    "x": 779.8,
+    "y": 434.3,
+    "size": 2814
+  },
+  {
+    "cluster": 12,
+    "name": "Documentary",
+    "x": 83.6,
+    "y": 786.7,
+    "size": 1380
+  },
+  {
+    "cluster": 42,
+    "name": "Drama",
+    "x": 810.4,
+    "y": 693.2,
+    "size": 1304
+  },
+  {
+    "cluster": 22,
+    "name": "Crime",
+    "x": 648.6,
+    "y": 480.5,
+    "size": 1257
+  },
+  {
+    "cluster": 53,
+    "name": "Animated",
+    "x": 425.6,
+    "y": 278.2,
+    "size": 1183
+  },
+  {
+    "cluster": 52,
+    "name": "Modern Drama",
+    "x": 691.8,
+    "y": 953.6,
+    "size": 1164
+  },
+  {
+    "cluster": 17,
+    "name": "Music Documentary",
+    "x": 169.5,
+    "y": 673.3,
+    "size": 1136
+  },
+  {
+    "cluster": 13,
+    "name": "Horror",
+    "x": 277.6,
+    "y": 455.7,
+    "size": 1032
+  },
+  {
+    "cluster": 40,
+    "name": "Thriller",
+    "x": 563.1,
+    "y": 502.5,
+    "size": 878
+  },
+  {
+    "cluster": 63,
+    "name": "Neo-Noir",
+    "x": 587.9,
+    "y": 450.2,
+    "size": 708
+  },
+  {
+    "cluster": 19,
+    "name": "Historical Drama",
+    "x": 616.3,
+    "y": 598.0,
+    "size": 630
+  },
+  {
+    "cluster": 5,
+    "name": "Music",
+    "x": 18.1,
+    "y": 387.1,
+    "size": 627
+  },
+  {
+    "cluster": 36,
+    "name": "Romcom",
+    "x": 670.0,
+    "y": 267.2,
+    "size": 615
+  },
+  {
+    "cluster": 41,
+    "name": "Horror Thriller",
+    "x": 370.8,
+    "y": 476.1,
+    "size": 607
+  },
+  {
+    "cluster": 4,
+    "name": "Love",
+    "x": 984.5,
+    "y": 276.6,
+    "size": 440
+  },
+  {
+    "cluster": 65,
+    "name": "Action",
+    "x": 541.2,
+    "y": 412.4,
+    "size": 376
+  },
+  {
+    "cluster": 46,
+    "name": "Dramatic Comedy",
+    "x": 802.0,
+    "y": 301.1,
+    "size": 347
+  },
+  {
+    "cluster": 30,
+    "name": "Mystery",
+    "x": 662.2,
+    "y": 536.1,
+    "size": 335
+  },
+  {
+    "cluster": 8,
+    "name": "Martial Arts",
+    "x": 195.2,
+    "y": 291.6,
+    "size": 329
+  },
+  {
+    "cluster": 60,
+    "name": "Psychological Horror",
+    "x": 417.8,
+    "y": 489.9,
+    "size": 319
+  },
+  {
+    "cluster": 61,
+    "name": "Superhero",
+    "x": 434.9,
+    "y": 375.9,
+    "size": 308
+  },
+  {
+    "cluster": 23,
+    "name": "Family Drama",
+    "x": 710.1,
+    "y": 545.0,
+    "size": 280
+  },
+  {
+    "cluster": 26,
+    "name": "Science Fiction",
+    "x": 484.8,
+    "y": 504.2,
+    "size": 258
+  },
+  {
+    "cluster": 64,
+    "name": "Psychological Thriller",
+    "x": 531.0,
+    "y": 474.9,
+    "size": 257
+  },
+  {
+    "cluster": 2,
+    "name": "Foreign Crime",
+    "x": 141.2,
+    "y": 411.1,
+    "size": 233
+  },
+  {
+    "cluster": 18,
+    "name": "Musical",
+    "x": 655.0,
+    "y": 627.4,
+    "size": 217
+  },
+  {
+    "cluster": 28,
+    "name": "Supernatural",
+    "x": 345.3,
+    "y": 442.4,
+    "size": 215
+  },
+  {
+    "cluster": 25,
+    "name": "Action Comedy",
+    "x": 510.2,
+    "y": 332.0,
+    "size": 214
+  },
+  {
+    "cluster": 54,
+    "name": "War",
+    "x": 579.8,
+    "y": 593.2,
+    "size": 211
+  }
+]

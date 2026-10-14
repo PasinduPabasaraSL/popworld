@@ -1,0 +1,26 @@
+{
+  "name": "popworld",
+  "private": true,
+  "version": "1.0.0",
+  "description": "PopWorld - Interactive 2D UMAP & 3D Earth Vector Map of Movies and TV Series with Multi-Lens Coloring and Cross-Media Pathfinding",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "generate-sample": "python3 pipeline/generate_starter_dataset.py"
+  },
+  "dependencies": {
+    "@types/three": "^0.186.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "~5.6.2",
+    "vite": "^6.0.5"
+  }
+}

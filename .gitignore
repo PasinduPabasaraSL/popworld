@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.npm-cache/
+.vercel/
+pipeline/*.sqlite
+pipeline/*.npy
+pipeline/records_meta.json
+__pycache__/
+*.pyc
+.DS_Store
